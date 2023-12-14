@@ -1,4 +1,3 @@
-# importamos la funcion random para la generacion de numeros aleatorios
 import random
 import math
 
@@ -9,7 +8,18 @@ def is_ganador(jugador, oponente):
         return True
     return False
 
+def mostrar_bienvenida():
+    print("============================")
+    print(" ¡Bienvenido(a) al juego!")
+    print("============================")
+    print("¡Vamos a divertirnos! Y juguemos con la PC. Piedra - Papel o Tijera")
+
 def jugar():
+    # Mostrar el mensaje de bienvenida solo la primera vez
+    if not hasattr(jugar, 'mensaje_mostrado') or not jugar.mensaje_mostrado:
+        mostrar_bienvenida()
+        jugar.mensaje_mostrado = True
+
     usuario = input("Elige una opcion: 'p' para piedra, 'pa' para papel, o 't' para tijeras")
     usuario = usuario.lower()
     
@@ -45,9 +55,9 @@ def el_mejor_jugador(n):
             print("Tú has elegido {} y la PC {}. ¡Perdiste!".format(usuario, pc))
 
     if jugador_contar > pc_contar:
-        print("Has ganado los mejores de {} juegos. ¡Bien hecho!".format(n))
+        print("Has ganado las {} mejores jugadas. ¡Bien hecho!".format(n))
     else:
-        print("La PC ha ganado los mejores de {} juegos. ¡Éxito la próxima vez!".format(n))
+        print("La PC ha ganado las mejores {} jugadas. ¡Éxito la próxima vez!".format(n))
 
 if __name__ == "__main__":
     el_mejor_jugador(5)
