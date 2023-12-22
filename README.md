@@ -1,6 +1,6 @@
-###Juego de Piedra, Papel o Tijera
+##Juego de Piedra, Papel o Tijera
 
-##  **Descripción: :no_bell:**
+##  **Descripción:**
 ¡Les doy la bienvenida a la implementación del juego de Piedra, Papel o Tijera! Mi nombre es José Páez Recalde y comencé con mi implementación de este proyecto el 12 de noviembre de 2023. Este programa proporciona una experoencia interactiva donde podrán desafiar a la computadora en emocioinantes partidas.
 https://i.ytimg.com/vi/d1RCW5Y4j_o/maxresdefault.jpg
 
