@@ -6,15 +6,15 @@ https://i.ytimg.com/vi/d1RCW5Y4j_o/maxresdefault.jpg
 
 ## **Funcionalidades principales:**
 - Juego contra la pc: Elije entre piedra papel o tijera y deja que la computadora genere una opción aleatoria.
-- Determinación del Ganador:* Se evalúa quién gana según las reglas tradicionales del juego.
+- Determinación del Ganador: Se evalúa quién gana según las reglas tradicionales del juego.
 - Mejor de N Juegos: Disfruta de varias rondas y descubre quién es el ganador del mejor de N juegos.
 - Mensaje de bienvenida: He agregado un mensaje de bienvenida amigable al usuario.
 - Validación de entrada del usuario: El programa valida la entrada del usuario para asegurarse de que solo elija opciones válidas (piedra, papel o tijera).
-- Interfaz clara: Se diseño un ainterfaz claa y entendible para el usuario.
+- Interfaz clara: Se diseño una interfaz clara y entendible para el usuario.
 - Contador de empates: Actualmente el juego lleva un seguimiento del número de empates durante sesión.
 
 #### Fecha de mejora del programa: 
-Las funcionalidades mejoradas se lo realizó para la presentación del foro de aprendizaje autóno 4. 13 de diciembre.
+Las funcionalidades mejoradas se lo realizó para la presentación del foro de aprendizaje autónomo 4. 13 de diciembre.
 
 
 ## Objetivo del Programa
