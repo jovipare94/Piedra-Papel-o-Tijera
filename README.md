@@ -1,4 +1,4 @@
-##Juego de Piedra, Papel o Tijera
+**##### Juego de Piedra, Papel o Tijera**
 
 ##  **Descripción:**
 ¡Les doy la bienvenida a la implementación del juego de Piedra, Papel o Tijera! Mi nombre es José Páez Recalde y comencé con mi implementación de este proyecto el 12 de noviembre de 2023. Este programa proporciona una experoencia interactiva donde podrán desafiar a la computadora en emocioinantes partidas.
@@ -27,4 +27,3 @@ El propósito principal de este programa es proporcionar una implementación div
 2. Ejecuta el programa desde tu entorno de desarrollo o terminal.
 3. Sigue las instrucciones para elegir entre piedra, papel o tijera.
 4. Disfruta del juego y descubre quién es el campeón.
-
