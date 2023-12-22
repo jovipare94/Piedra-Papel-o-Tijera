@@ -17,11 +17,11 @@ https://i.ytimg.com/vi/d1RCW5Y4j_o/maxresdefault.jpg
 Las funcionalidades mejoradas se lo realizó para la presentación del foro de aprendizaje autónomo 4. 13 de diciembre.
 
 
-## Objetivo del Programa
+## Objetivo del programa:
 
 El propósito principal de este programa es proporcionar una implementación divertida y educativa del juego clásico. Este proyecto me ha permitido aplicar conceptos clave de programación y estructuras de control. Además, sirve como una excelente manera de mejorar mis habilidades prácticas.
 
-## Cómo Jugar
+## Cómo Jugar:
 
 1. Clona el repositorio del archivo "PPT PROYECTO FINAL.PY" a tu computadora.
 2. Ejecuta el programa desde tu entorno de desarrollo o terminal.
