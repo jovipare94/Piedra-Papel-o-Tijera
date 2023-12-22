@@ -23,7 +23,7 @@ El propósito principal de este programa es proporcionar una implementación div
 
 ## Cómo Jugar
 
-1. Clona el repositorio a tu computadora.
+1. Clona el repositorio del archivo "PPT PROYECTO FINAL.PY" a tu computadora.
 2. Ejecuta el programa desde tu entorno de desarrollo o terminal.
 3. Sigue las instrucciones para elegir entre piedra, papel o tijera.
 4. Disfruta del juego y descubre quién es el campeón.
